@@ -1,1 +1,1 @@
-# 2017offsite-client-example
+# 2017 Cardano Engineering Offsite complete client example
