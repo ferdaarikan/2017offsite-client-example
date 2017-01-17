@@ -17,6 +17,6 @@ RUN npm install
 ADD . /usr/src/app
 
 # app binds to port 8080 so you'll use the EXPOSE instruction to have it mapped by the docker daemon
-EXPOSE 8080
+EXPOSE 3000
 
 CMD [ "npm", "start" ]
