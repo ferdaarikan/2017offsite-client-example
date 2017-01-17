@@ -1,0 +1,38 @@
+.home {
+  .list-group-item {
+    border-left: none;
+    border-right: none;
+  }
+}
+
+.venue-info {
+  display: table-cell;
+  vertical-align: top;
+  height: 6.25rem;
+
+  span {
+    padding-top: 	0.2rem;
+    display: block;
+  }
+
+  .venue-title {
+    font-weight: bold;
+    text-transform: capitalize;
+  }
+
+  .venue-rating {
+    color: #cc2528;
+  }
+}
+
+.venue-address {
+  padding-top: 	0.2rem;
+  display: table-cell;
+  vertical-align: top;
+  height: 6.25rem;
+  font-size: 0.8rem;
+
+  span {
+    display: block;
+  }
+}

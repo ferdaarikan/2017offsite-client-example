@@ -1,0 +1,125 @@
+[{
+	"id": 282427,
+	"shopName": "Haz",
+	"rating": 0,
+	"summary": "Turkish Restaurant with eat in or take out.",
+	"address": {
+		"address1": "9 Cutler Street",
+		"address2": "",
+		"address3": "",
+		"town": "London",
+		"postcode": "E1 7DJ"
+	},
+	"location": {
+		"longitude": -0.079,
+		"latitude": 51.5158
+	},
+	"comments": [{
+		"id": 1,
+		"user": {
+			"id": 20,
+			"name": "Oscar Gomez",
+			"image": "https://cardano.github.io//assets/images/avatars/oscar.png"
+		},
+		"text": "This is a Turkish Restaurant and I had turkish pizza called a lahnacun wish is a small pizza , this a mince meat pizza unfortunately I felt that this was not values for money , the food quality was good it was just a bit expensive. it has a great atmosphere worth outside setting, I sat outside and it is situated on a quite street. so Price wise I would not recommend it but quality wise I would",
+		"rating": 3
+	}, {
+		"id": 2,
+		"user": {
+			"id": 12,
+			"name": "Jim Gleeson",
+			"image": "https://cardano.github.io//assets/images/avatars/jim.png"
+		},
+		"text": "Haz is the place to go for Turkish food in London. Meze are delicious and a great option to share with friends. Portions are quite large and the value for money is also very good.",
+		"rating": 4
+	}, {
+		"id": 3,
+		"user": {
+			"id": 12,
+			"name": "Jim Gleeson",
+			"image": "https://cardano.github.io//assets/images/avatars/jim.png"
+		},
+		"text": "Delicious tender meat grilled to perfection, paired with friendly and attentive service. I will be back.",
+		"rating": 4
+	}]
+}, {
+	"id": 283174,
+	"shopName": "Costa Coffee",
+	"rating": 0,
+	"summary": "Cafe specialising in coffee and snacks.  Has eat in or take out.",
+	"address": {
+		"address1": "117-119 Houndsditch",
+		"address2": "",
+		"address3": "",
+		"town": "London",
+		"postcode": "EC3A 7BT"
+	},
+	"location": {
+		"longitude": -0.0788,
+		"latitude": 51.5155
+	},
+	"comments": [{
+		"id": 4,
+		"user": {
+			"id": 21,
+			"name": "Parminder Singh Ghotra",
+			"image": "https://cardano.github.io//assets/images/avatars/parminder.png"
+		},
+		"text": "Worst Iced Coffee Ever! Staff here are hopeless, avoid this Costa and go across the road to Starbucks!",
+		"rating": 1
+	}, {
+		"id": 6,
+		"user": {
+			"id": 20,
+			"name": "(tbd)",
+			"image": "(tbd)"
+		},
+		"text": "Oscar testing adding comments 4.",
+		"rating": 3
+	}, {
+		"id": 6,
+		"user": {
+			"id": 20,
+			"name": "(tbd)",
+			"image": "(tbd)"
+		},
+		"text": "Oscar testing adding comments 4.",
+		"rating": 3
+	}, {
+		"id": 6,
+		"user": {
+			"id": 20,
+			"name": "(tbd)",
+			"image": "(tbd)"
+		},
+		"text": "Oscar testing adding comments 4.",
+		"rating": 3
+	}, {
+		"id": 6,
+		"user": {
+			"id": 20,
+			"name": "(tbd)",
+			"image": "(tbd)"
+		},
+		"text": "Oscar testing adding comments 4.",
+		"rating": 3
+	}, {
+		"id": 6,
+		"user": {
+			"id": 20,
+			"name": "(tbd)",
+			"image": "(tbd)"
+		},
+		"text": "Oscar testing adding comments 4.",
+		"rating": 3
+	}, {
+		"id": 6,
+		"user": {
+			"id": 20,
+			"name": "(tbd)",
+			"image": "(tbd)"
+		},
+		"text": "Oscar testing adding comments 8.",
+		"rating": 3
+	}]
+}]
